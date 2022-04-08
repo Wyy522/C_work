@@ -8,14 +8,13 @@ void show_all();
 char *ptr=(char *)malloc(100000 * sizeof(char));
 char i=0;
 
-int main() {
-    set_teacher("26","women");
-    set_student("191417","xiaowei");
-
-    set_student("191103","xiaozhang");
-    show_all();
-    return 0;
-}
+//int main() {
+//    set_teacher("26","women");
+//    set_student("191417","xiaowei");
+//    set_student("191103","xiaozhang");
+//    show_all();
+//    return 0;
+//}
 
 void set_teacher(char* id,char *gender){
 
