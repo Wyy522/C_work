@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wyy/CLionProjects/c++Test/cast.cpp
+cstdio
+-
+mysql/mysql.h
+-
+read_properties.h
+/home/wyy/CLionProjects/c++Test/read_properties.h
+
+/home/wyy/CLionProjects/c++Test/read_properties.h
+
+/home/wyy/CLionProjects/c++Test/utils.cpp
+cstring
+-
+cstdio
+-
+

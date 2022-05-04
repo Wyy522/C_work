@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/c__Test.dir/duotai.cpp.o CMakeFiles/c__Test.dir/main.cpp.o CMakeFiles/c__Test.dir/templatee.cpp.o CMakeFiles/c__Test.dir/cast.cpp.o CMakeFiles/c__Test.dir/process.cpp.o  -o c__Test 

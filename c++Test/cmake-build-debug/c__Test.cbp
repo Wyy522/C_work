@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="c__Test"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/wyy/CLionProjects/c++Test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/wyy/CLionProjects/c++Test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/wyy/CLionProjects/c++Test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="templatee.cpp">
+				<Option output="/home/wyy/CLionProjects/c++Test/cmake-build-debug/templatee.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wyy/CLionProjects/c++Test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 templatee.cpp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="templatee.cpp/fast">
+				<Option output="/home/wyy/CLionProjects/c++Test/cmake-build-debug/templatee.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wyy/CLionProjects/c++Test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 templatee.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/wyy/CLionProjects/c++Test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/wyy/CLionProjects/c++Test/cast.cpp">
+			<Option target="templatee.cpp"/>
+		</Unit>
+		<Unit filename="/home/wyy/CLionProjects/c++Test/cppprocess.cpp">
+			<Option target="templatee.cpp"/>
+		</Unit>
+		<Unit filename="/home/wyy/CLionProjects/c++Test/cppprocess.h">
+			<Option target="templatee.cpp"/>
+		</Unit>
+		<Unit filename="/home/wyy/CLionProjects/c++Test/read_properties.cpp">
+			<Option target="templatee.cpp"/>
+		</Unit>
+		<Unit filename="/home/wyy/CLionProjects/c++Test/read_properties.h">
+			<Option target="templatee.cpp"/>
+		</Unit>
+		<Unit filename="/home/wyy/CLionProjects/c++Test/utils.cpp">
+			<Option target="templatee.cpp"/>
+		</Unit>
+		<Unit filename="/home/wyy/CLionProjects/c++Test/utils.h">
+			<Option target="templatee.cpp"/>
+		</Unit>
+		<Unit filename="/home/wyy/CLionProjects/c++Test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

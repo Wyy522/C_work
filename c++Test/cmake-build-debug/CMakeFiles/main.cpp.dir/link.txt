@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/main.cpp.dir/templatee.cpp.o CMakeFiles/main.cpp.dir/cast.cpp.o CMakeFiles/main.cpp.dir/cppprocess.cpp.o CMakeFiles/main.cpp.dir/read_properties.cpp.o CMakeFiles/main.cpp.dir/utils.cpp.o  -o main.cpp 

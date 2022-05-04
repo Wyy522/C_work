@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/duotai.cpp.dir/main.cpp.o CMakeFiles/duotai.cpp.dir/templatee.cpp.o CMakeFiles/duotai.cpp.dir/cast.cpp.o CMakeFiles/duotai.cpp.dir/cppprocess.cpp.o CMakeFiles/duotai.cpp.dir/read_properties.cpp.o CMakeFiles/duotai.cpp.dir/utils.cpp.o  -o duotai.cpp 

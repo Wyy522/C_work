@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wyy/CLionProjects/c++Test/process.cpp
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+sys/wait.h
+-
+
